@@ -1,8 +1,26 @@
 # Useful / random / memorable phrases:
 
-dit is wat ik moet onthouden: "this is what I must remember"
+Ik kom uit Verenigde Staten (VS).
+
+Ik heb een beetje Nederlands geleerd.
+
+hoe gaat het? -> "hoo ghghaat het?"
 
 hoe doe je dat? -> "hoo doo ye dat"
+
+De naam weet ik niet meer.
+
+Wat doe je vanmiddag?
+
+I houd von voetballen
+
+hoe oud ben je? wat is jouw leeftijd?
+
+bedankt!
+
+dit is wat ik moet onthouden: "this is what I must remember"
+
+Sorry, maar ik moet gaan
 
 doe me dit niet aan. -> "don't do me like that"
 
@@ -25,5 +43,12 @@ Hij moet stiller zijn! Hij kan leuker zijn!
 
 Ik zou het bed opmaken.
 
-Ik kwam door de regnen of ik ben door de regen gekomen.
+Ik kwam door de regnen. of: ik ben door de regen gekomen.
+
+Lekker dan!
+
+Viel plezier
+
+het verschil tussen "the difference between"
+
 

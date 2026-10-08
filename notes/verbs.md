@@ -1,5 +1,9 @@
 # Verbs
 
+Asking a question always uses the ik form: you are asking them to be the "I"..?
+
+Jij gaat om elf uur naar bed -> Om elf uur ga jij naar bed. <- gaat -> ga for "you"
+
 ## Irregulars
 
 ### Zijn: to be
@@ -41,6 +45,46 @@
 | hij    | had     | ze     | hadden  |
 
 **Past participle:** gehad
+
+### Doen: to do
+
+**Present:**
+
+| s. pro | verb     | p. pro | verb  |
+|--------|----------|--------|-------|
+| ik     | doe      | we     | doen  |
+| je     | doet     | jullie | doen  |
+| hij    | doet     | ze     | doen  |
+
+**Past:**
+
+| s. pro | verb    | p. pro | verb   |
+|--------|---------|--------|--------|
+| ik     | deed    | we     | deden  |
+| je     | deed    | jullie | deden  |
+| hij    | deed    | ze     | deden  |
+
+**Past participle:** gedaan
+
+### Zien: to see
+
+**Present:**
+
+| s. pro | verb     | p. pro | verb  |
+|--------|----------|--------|-------|
+| ik     | zie      | we     | zien  |
+| je     | ziet     | jullie | zien  |
+| hij    | ziet     | ze     | zien  |
+
+**Past:**
+
+| s. pro | verb   | p. pro | verb   |
+|--------|--------|--------|--------|
+| ik     | zag    | we     | zagen  |
+| je     | zag    | jullie | zagen  |
+| hij    | zag    | ze     | zagen  |
+
+**Past participle:** gezien
 
 ### Zullen: shall / should / would / will
 
@@ -189,6 +233,5 @@ Ik heb naar Utrecht gegaan of ik ging naar Utrecht?
 | hij    | stond   | ze     | stonden |
 
 **Past participle:** gestagen
-
 
 
