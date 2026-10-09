@@ -24,14 +24,14 @@ Words that specify the relationships among things -- core!
 
 ## Knowledge
 
-| Dutch     | Engels    |
-|-----------|-----------|
+| Dutch     | Engels             |
+|-----------|--------------------|
 | begrijp   | understand meaning |
 | verstaan  | understand, basic  |
 | weten     | know fact          |
 | kennen    | know person, place, thing |
-| ondhouden | remember  |
-| veregeten | forget   |
+| ondhouden | remember           |
+| veregeten | forget             |
 
 ## Locations
 
@@ -49,6 +49,7 @@ Words that specify the relationships among things -- core!
 | Dutch   | Engels   |
 |---------|----------|
 | met     | with     |
+| zonder  | without  |
 | van     | from     |
 | naar    | to       |
 | in      | in       |
@@ -77,15 +78,36 @@ Words that specify the relationships among things -- core!
 
 ## Qualifiers
 
-| Dutch     | Engels    | Notes |
-|-----------|-----------|-------|
-| sommig    | some      |       |
-| ieder     | every     |       |
-| gauw      | soon      | "now" |
-| nooit     | never     |       |
-| meestal   | generally |       |
-| misschien | maybe     |       |
-| moeilijk  | hard      | cognitive |
-| zwaar     | tough     | physical |
+Some, a few:
 
+| Dutch      | Engels                | Notes                           |
+|------------|-----------------------|---------------------------------|
+| sommige    | plural specific       | Sommige mensen houden van kaas. |
+| een paar   | plural countable      | Ik heb een paar boeken gelezen. |
+| enkele     | same as een paar      | Ik heb enkele noten gegeten.    |
+| een beetje | singular, uncountable | Ik drink een beetje wijn.       |
+| wat        | same as een beetje    | Ik drink wat wijn. (casual)     |
+| enige      | only, any, formal, q's | Heb jij enig idee hoe laat het is? |
+
+Others:
+
+| Dutch      | Engels    | Notes      |
+|------------|-----------|------------|
+| ieder      | every     |            |
+| altijd     | always    |            |
+| immer      | ever, always |         |
+| soms       | sometimes |            |
+| somtijds   | sometimes |            |
+| nooit      | never     |            |
+| gauw       | soon      | "now"      |
+| nu         | now       |            |
+| later      | later     |            |
+| meestal    | generally |            |
+| misschien  | maybe     |            |
+| moeilijk   | hard      | cognitive  |
+| zwaar      | tough     | physical   |
+| licht      | light     |            |
+| zacht      | soft, gentle |         |
+| makkelijk  | easy      |            |
+| groeit     | grows     |            |
 

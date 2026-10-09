@@ -10,6 +10,22 @@ Speak, talk etc:
 * praten:  talk, chat
 * kletsen: gab
 
+## Tenses
+
+"perfect" means "finished" or "completed"!
+
+| Tense               | Dutch                 | Engles              |
+|---------------------|-----------------------|---------------------|
+| present             | Ik werk               | I work              |
+| past                | Ik werkte             | I worked            |
+| perfect             | Ik heb gewerkt        | I have worked       |
+| pluperfect          | Ik had gewerkt        | I had worked        |
+| future              | Ik zal werken         | I will work         |
+| conditional         | Ik zou werken         | I would work        |
+| future perfect      | Ik zal hebben gewerkt | I will have worked  |
+| conditional perfect | Ik zou hebben gewerkt | I would have worked |
+| progressive         | Ik ben aan het werken | I am working        |
+
 ## Irregulars
 
 ### Zijn: to be
@@ -239,5 +255,11 @@ Ik heb naar Utrecht gegaan of ik ging naar Utrecht?
 | hij    | stond   | ze     | stonden |
 
 **Past participle:** gestagen
+
+## Strong verbs
+
+| Infinitive | present   | past sing | plural     | participle | Engles         |
+|------------|-----------|-----------|------------|------------|----------------|
+| weten      | weet      | wist      | wisten     | geweten    | to know (fact) |
 
 
