@@ -26,6 +26,12 @@ doe me dit niet aan. -> "don't do me like that"
 
 voor mij?
 
+hier is het
+
+waarom zeg je dat?
+
+heb je zin? -> "are you in the mood"
+
 dat is haar ding, niet voor mij
 
 We hebben alles wat we nodig hebben. "we have all that we need"

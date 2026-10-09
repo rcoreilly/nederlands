@@ -4,6 +4,12 @@ Asking a question always uses the ik form: you are asking them to be the "I"..?
 
 Jij gaat om elf uur naar bed -> Om elf uur ga jij naar bed. <- gaat -> ga for "you"
 
+Speak, talk etc:
+
+* spreeken: speak 
+* praten:  talk, chat
+* kletsen: gab
+
 ## Irregulars
 
 ### Zijn: to be
